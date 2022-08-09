@@ -1,0 +1,27 @@
+.headingStyle{
+    background-color: aqua;
+    color: red;
+    padding: 15px;
+    text-align: center;
+
+
+}
+.fstake{
+text-align: center;
+padding: 10px;
+
+}
+.con{
+    color: rgb(228, 136, 23);
+    font-size: x-large;
+    text-align: center;
+
+}
+.exp{
+    color: rgb(229, 138, 28);
+    font-size: medium;
+    text-align: center;
+}
+.card{
+    background-color: blanchedalmond;
+}
